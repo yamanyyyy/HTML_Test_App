@@ -1,6 +1,5 @@
 # 01 example.pyを作成して「hello world」と出力してください。
-print("hello world")
-
+print("hellow world")
 
 # 02 greet関数を実装し、「こんにちは」と出力するようにしてください。関数を呼び出して、実際に出力されることを確認してください。
 def greet():
@@ -12,7 +11,7 @@ greet()
 def print_name(name):
     print(f"私の名前は{name}です")
 
-print_name("やまん＠51期")
+print_name("やまん@51期")
 
 # 04「おはようございます」という文字列を戻り値として返すget_greet関数を実装し、戻り値をprint関数で出力してください。
 def get_greet():
